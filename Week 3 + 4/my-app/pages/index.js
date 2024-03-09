@@ -9,6 +9,7 @@ import ClickCounter from "@/components/ClickCounter";
 import Post1 from "@/components/Post1";
 import Post2 from "@/components/Post2";
 import Post3 from "@/components/Post3";
+import List from "@/components/List";
 
 // This function gets called at build time
 export function getStaticProps() {
@@ -67,6 +68,13 @@ export default function Home(props) {
 
       <h2>Post3 Component</h2>
       <Post3 post={props.staticPost} />
+
+      <hr />
+
+      <h2>List Component</h2>
+      <p>Week 4 - Conditionally Displaying Data</p>
+      <p>React component: Rendering  Data (VM) on UI (View)</p>
+      <List />
     </>
   );
 }
