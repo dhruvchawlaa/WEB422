@@ -1,3 +1,27 @@
+# Web Programming for Apps and Services
+
+This repository contains a collection of web programming projects developed during my studies at Seneca College. These projects demonstrate practical skills in building responsive and dynamic web applications using various technologies, including React, Node.js, JavaScript, Bootstrap, and Next.js.
+
+## Technologies Used
+
+- React
+- Node.js
+- JavaScript
+- Bootstrap
+- Next.js
+
+## Getting Started
+
+1. Clone this repository to your local machine.
+2. Navigate to the project directory.
+3. Follow the specific instructions provided in each project's directory to run and test the applications.
+
+## Contributions
+
+Contributions and feedback are welcome! If you encounter any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -38,3 +62,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+Thank you for exploring my web programming projects! If you have any questions, please don't hesitate to reach out.
